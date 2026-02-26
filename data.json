@@ -1,0 +1,9 @@
+{
+  "owners": [123456789],
+  "users": {
+    "123456789": {
+      "bot_token": "123:ABC",
+      "bot_username": "MyUserBot"
+    }
+  }
+}
