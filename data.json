@@ -1,4 +1,11 @@
 {
   "owners": [7797502113],
-  "users": {}
+  "users": {},
+  "bots": {},
+  "stats": {
+    "created_bots": []
+  },
+  "settings": {
+    "force_sub": []
+  }
 }
